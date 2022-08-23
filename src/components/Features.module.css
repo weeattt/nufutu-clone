@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
+
+
+.bundle {
+    display: block;
+    font-size: 27px;
+    
+}
+
+.line {
+    border: solid 3px #D4d200;
+    background-color: #D4d200;
+}
+
+.box {
+    display: flex;
+    background-color: white;
+    padding: 200px;
+    padding-top: 100px;
+}
+
+.bundle,
+.img {
+    flex: 1;
+}
+
+

@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+    word-break: keep-all;
+}
+
+html {
+    overflow-y: scroll;
+    background-color: #f9f9f9;
+}
+
+body {
+    margin: 0;
+}
+
+
+.back {
+    position: absolute;
+    width: 1688px;   
+    align-items: auto;
+    
+}
+
+.body {
+    position: relative;
+    flex-grow: 1;
+}
+.internal {
+    position: absolute;
+    flex: 1;
+    left: 600px;
+    padding-top: 300px;
+   
+    font-size: 40px;
+    
+}
+.text {
+    position: absolute;
+    left: 575px;
+    padding-top: 50px;
+    color: white;
+    font-size: 58px;
+    align-content: center;
+    
+}
+
+.smalltext {
+    position: absolute;
+    left: 600px;
+    padding-top: 230px;
+    color: white;
+    font-size: 24px;
+    
+}
+
+.contact {
+    
+    flex: 1;
+    padding-top: 800px;
+}
+
+.margin {
+    height: 1300px;
+    background-color: white;
+   
+}
+
+.features {
+    background-color: blueviolet;
+}

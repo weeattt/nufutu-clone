@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+
+
+
+.nav {
+    position: relative;
+    z-index: 1;
+    padding: 10px 0;
+    background-color: #fff;
+    box-shadow: var(--box-shadow);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+ul.menu {
+    display: flex;
+    padding: 30px;
+    margin: 0;
+    list-style: none;
+    justify-content: space-between;
+    font-size: 23px;
+    font-family:'Aboreto';
+    padding-bottom: 20px;
+    
+  }
+
+ul.menu > li:not(:last-child) {
+    margin-right: 40px;
+}
+  
+ul.menu a:hover,
+ul.menu a:active {
+    text-decoration: underline;
+}  
+  
+

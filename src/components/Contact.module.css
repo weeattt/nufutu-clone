@@ -1,0 +1,68 @@
+.footer {
+    padding: 20px 0 53px;
+    color: #878787;
+    background-color: #494949;
+    
+}
+
+.links {
+    color: #c4c4c4;
+    list-style: none;
+    flex: 2;
+}
+
+.links > * {
+    display: inline-block;
+    line-height: 1.64;
+}
+
+.links > :not(:last-child) {
+    margin-right: 30px;
+}
+
+.info {
+    padding: 0px;
+    margin-bottom: 36px;
+    list-style: none;
+}
+
+.info > * {
+    display: inline-block;
+    line-height: 1.64;
+}
+
+.info > :not(:last-child) {
+    margin-right: 30px;
+}
+
+.contactform {
+    border: 3px solid #4646cd;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    
+}
+
+.formcontainer {
+   flex-direction: column;
+   flex: 1;
+   padding: 100px;
+   
+}
+.ukki {
+    display: flex;
+    
+}
+
+.button {
+    border: 3px solid #46cdcd;
+    opacity: 95%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #46cdcd;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    left: 1265px;
+    margin-top: 150px;
+}

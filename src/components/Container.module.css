@@ -1,0 +1,13 @@
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  @media (max-width: 1200px) {
+    .container {
+      padding: 0 calc(14px * 5);
+    }
+  }
+
+  /*미디어 쿼리는 CSS에서 어떤 스타일을 선택적으로 적용하고 싶을 때 사용합니다. */  
