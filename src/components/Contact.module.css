@@ -62,7 +62,7 @@
     background-color: #46cdcd;
     color: white;
     font-size: 15px;
-    position: absolute;
-    left: 1265px;
-    margin-top: 150px;
+    margin-left: 265px;
+    margin-top: 10px;
+    cursor: pointer;
 }

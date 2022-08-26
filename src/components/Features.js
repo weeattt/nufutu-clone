@@ -36,7 +36,7 @@ function Features() {
            NUFUTU provides safe, secure, and satisfying platform that users can trade the digital + physical item. 
            NUFUTU is powered by Fuel Network, the world's fastest modular execution layer
             that delivers massive performance improvements for decentralized applications. </div>
-          <img src={fifth} style={{padding: '50px' }} alt="05" />
+          <img src={fifth} style={{padding: '40px' }} alt="05" />
         </div>
         <img className={styles.image} src={third} alt="01" />
       </div> 

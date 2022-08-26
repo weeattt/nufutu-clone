@@ -1,7 +1,4 @@
-* {
-    box-sizing: border-box;
-    word-break: keep-all;
-}
+
 
 html {
     overflow-y: scroll;
@@ -12,6 +9,9 @@ body {
     margin: 0;
 }
 
+.nav {
+    position: sticky;
+}
 
 .back {
     position: absolute;
