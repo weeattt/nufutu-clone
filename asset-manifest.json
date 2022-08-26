@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nufutu-clone/static/css/main.cc82cd56.css",
+    "main.js": "/nufutu-clone/static/js/main.7388e9ed.js",
+    "static/media/ipone.webp": "/nufutu-clone/static/media/ipone.535de61f7f2cbeecd9ef.webp",
+    "static/media/03.png": "/nufutu-clone/static/media/03.1ac7b715b0dafbbff404.png",
+    "static/media/01.png": "/nufutu-clone/static/media/01.f9713f7d533b0bcc453b.png",
+    "static/media/02.png": "/nufutu-clone/static/media/02.1a62dda5f665fc0a68c7.png",
+    "static/media/05.png": "/nufutu-clone/static/media/05.428ae16c727aa8da562f.png",
+    "static/media/logo.webp": "/nufutu-clone/static/media/logo.ea81d70004233d836ad8.webp",
+    "static/media/backGround.webp": "/nufutu-clone/static/media/backGround.15243303288d02cb4bd8.webp",
+    "index.html": "/nufutu-clone/index.html",
+    "main.cc82cd56.css.map": "/nufutu-clone/static/css/main.cc82cd56.css.map",
+    "main.7388e9ed.js.map": "/nufutu-clone/static/js/main.7388e9ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc82cd56.css",
+    "static/js/main.7388e9ed.js"
+  ]
+}
